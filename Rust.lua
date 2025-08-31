@@ -9,9 +9,13 @@ not that hard, is it? :)
  
 join discord for any questions or issues
 
-https://discord.gg/XzX6qMFHqU
+https://discord.gg/catnip
 
 build version -> 0.6 - 11/27/22 
+
+updated nothing as of 8/31/25
+issues dm @rotten.network on discord
+
 ]]
  
 --GUNS:
